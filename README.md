@@ -1,6 +1,8 @@
 # Code Examples for [Working Effectively with Unit Tests](http://wewut.com/)
 
 # Acknowledgments
+Forked from https://github.com/jaycfields/wewut-code
+
 # Unit Testing, a First Example 
 ```java
 public class CustomerTest {
